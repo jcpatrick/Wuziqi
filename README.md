@@ -1,8 +1,8 @@
 ##五子棋
-本项目主要是通过观看慕课网hyman的五子棋视频来学习自定义View等只是的Demo，视频地址为：[链接](http://www.imooc.com/learn/641)
+本项目主要是通过观看慕课网hyman的五子棋视频来学习自定义View等只是的Demo，视频地址为：[http://www.imooc.com/learn/641](http://www.imooc.com/learn/641)
 
 #自定义画板
->需要注意的知识点：自定义view时，如果涉及状态保存等，应该要在布局文件中加上id，否则无法对view的状态进行保存。
+需要注意的知识点：自定义view时，如果涉及状态保存等，应该要在布局文件中加上id，否则无法对view的状态进行保存。
 ##总结
 通过该Demo的练习，学会了View的测量，并且知道了如何对View的大小进行设置，也学习了View点击事件的拦截，以及对View进行绘制。
 
